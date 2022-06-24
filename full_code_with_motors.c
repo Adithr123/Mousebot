@@ -27,7 +27,7 @@ AF_DCMotor left_wheel(2, MOTOR12_64KHZ); // create motor #2, 64KHz pwm
 #define left_whisker_pin A0
 #define right_whisker_pin 2
 
-// joystick pins & behavior
+// joystick pins & behavior                                                          
 #define joystick_x_pin A4
 #define joystick_y_pin A5
 #define joystick_switch_pin 9
